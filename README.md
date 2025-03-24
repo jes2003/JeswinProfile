@@ -1,41 +1,12 @@
 <!-- Gradient Background Effect -->
 <div align="center" style="background: linear-gradient(135deg, #ff9a9e 10%, #fad0c4 100%); padding: 20px; border-radius: 10px;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150"/>
+  <img src="https://raw.githubusercontent.com/jes2003/JeswinProfile/main/Jeswinpicssss.jpg" height="150" style="border-radius: 50%; border: 3px solid white;" alt="Jeswin's Profile Picture"/>
 </div>
 
----
-<!-- Social Links -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/jeswin-immanuel-815636229">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.instagram.com/irs_ur_jeswin/">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://leetcode.com/Hacker_Jeswin/">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="LeetCode" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jes2003">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
-<h1 align="center">👋 Hey there, I'm Jeswin Immanuel!</h1>
+<h1 align="center" style="font-size: 2.5rem; color: #ff6f61;">👋 Hey there, I'm Jeswin Immanuel!</h1>
+
 
 ---
 ## 🚀 **About Me**
