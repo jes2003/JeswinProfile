@@ -1,101 +1,124 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<!-- Gradient Background Effect -->
+<div align="center" style="background: linear-gradient(135deg, #ff9a9e 10%, #fad0c4 100%); padding: 20px; border-radius: 10px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150"/>
 </div>
 
-###
-
+---
+<!-- Social Links -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/jeswin-immanuel-815636229">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.instagram.com/irs_ur_jeswin/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram logo" />
-  </a>
-  <a href="https://leetcode.com/u/Hacker_Jeswin/">
-    <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="25" alt="LeetCode logo" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/jeswin-immanuel-815636229">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.instagram.com/irs_ur_jeswin/">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/Hacker_Jeswin/">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="LeetCode" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jes2003">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
+<h1 align="center">👋 Hey there, I'm Jeswin Immanuel!</h1>
 
-<h1 align="center">Hey there 👋, I'm Jeswin Immanuel</h1>
+---
+## 🚀 **About Me**
+🎯 **Tech Enthusiast | Data Engineer in Progress | Problem Solver**  
+💡 Passionate about **Data Engineering, Cloud Computing, and AI-driven solutions**  
+🛠 Skilled in **Python, SQL, Azure, Spark, Hadoop, and Power BI**  
+📈 **LeetCode & Competitive Programming** Enthusiast – **Solving DSA problems daily!**  
+📚 Currently **Mastering Spark, SQL Optimization & System Design**  
 
-###
+---
+## 🏆 **LeetCode Performance**
+<div align="center" style="background: linear-gradient(135deg, #1f1c2c 10%, #928DAB 100%); padding: 20px; border-radius: 10px;">
+  <h3>🚀 My LeetCode Journey</h3>
+  💡 Consistent practice = Better problem-solving skills  
+  💪 Solving Data Structures & Algorithms (DSA) daily!  
 
-<h3 align="left">👨‍💻 About Me</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <b>🌟 Profile Stats</b> <br>
+        <img src="https://leetcard.jacoblin.cool/Hacker_Jeswin?theme=dark&font=Montserrat&ext=heatmap" height="250" alt="LeetCode Stats"/>
+      </td>
+      <td align="center">
+        <b>🔥 Top Problem Tags</b> <br>
+        <img src="https://leetcard.jacoblin.cool/Hacker_Jeswin?theme=unicorn&font=Montserrat&ext=rating" height="250" alt="LeetCode Tags"/>
+      </td>
+    </tr>
+  </table>
 
-###
-
-- 🔭 Working as an **Associate Software Engineer** at WaferWire Cloud Technology  
-- 📚 **Aspiring Data Engineer**, learning **SQL, Python, Spark, and Hadoop**  
-- 🚀 Passionate about **Cloud Computing, Data Analytics, and Problem Solving**  
-- ⚡ **LeetCode enthusiast**, solving **DSA problems & competitive coding**  
-- 🌱 Exploring **Azure, Power BI, Docker, and Kubernetes**  
-
-###
-
-<h3 align="left">📊 LeetCode Performance (Graph Representation)</h3>
-
-###
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Hacker_Jeswin?theme=dark&font=Montserrat&ext=activity" height="250" alt="LeetCode Graph" />
+  ✨ On the road to mastering LeetCode! 🚀  
 </div>
 
-###
-
-<h3 align="left">🔥 GitHub Stats:</h3>
-
-###
-
+---
+## 🔥 **GitHub Stats – My Dev Journey!** 🚀
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeswin-immanuel&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="200" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jes2003&theme=radical" width="90%" alt="GitHub Summary" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeswin-immanuel&theme=dark&hide_border=false&border_radius=5" height="200" alt="GitHub Streak" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=jes2003&show_icons=true&theme=radical&hide_border=false&border_radius=10" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jes2003&theme=radical&hide_border=false&border_radius=10" width="48%" alt="GitHub Streak" />
+  </div>
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeswin-immanuel&theme=github_dark" height="200" alt="GitHub Summary" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jes2003&theme=radical&hide_border=false&border_radius=10&layout=compact" width="48%" alt="Top Languages" />
 </div>
 
-###
-
-<h3 align="left">🛠 Technologies & Skills</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="SQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="Azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original-wordmark.svg" height="40" alt="Apache Spark logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original-wordmark.svg" height="40" alt="Hadoop logo" />
+---
+## 💡 **Tech Stack & Skills**
+<div align="center">
+  <h3>🎯 Mastering Technologies to Build Scalable & Robust Solutions! 🎯</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" /><br><b>Python</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="SQL" /><br><b>SQL & Databases</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="Azure" /><br><b>Azure Cloud</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" /><br><b>Docker</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="Kubernetes" /><br><b>Kubernetes</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="60" alt="Hadoop" /><br><b>Hadoop</b>
+      </td>
+    </tr>
+  </table>
+  <h3>🔥 Always Expanding & Innovating! 🔥</h3>
 </div>
 
-###
-
-<h3 align="left">📫 Get in Touch</h3>
-
-###
-
-<div align="left">
-  <a href="mailto:j.jeswin2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail logo" />
-  </a>
+---
+## 📞 **Get in Touch!**
+<div align="center">
+  <h3>🔹 Reach out anytime! Click below to connect. 🔹</h3>
   <br>
+  <a href="mailto:j.jeswin2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
+  </a> &nbsp;
   <a href="tel:+916385921840">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" alt="Phone logo" />
-  </a>
-  <br>
-  <a href="https://www.instagram.com/irs_ur_jeswin/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram logo" />
+    <img src="https://img.shields.io/badge/Call_Me-34A853?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="Call" />
   </a>
 </div>
